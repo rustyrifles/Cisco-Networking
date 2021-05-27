@@ -1,3 +1,7 @@
+""" Some initial comments here at the top
+of the screen. This just shows how we can
+comment multiline"""
+
 from tkintertoy import Window
 bob = ''
 bob2 = ''
