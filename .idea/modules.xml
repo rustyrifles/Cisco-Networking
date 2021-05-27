@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cisco-Networking.iml" filepath="$PROJECT_DIR$/.idea/Cisco-Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Learning-Samples/.idea/Learning-Samples.iml" filepath="$PROJECT_DIR$/../Learning-Samples/.idea/Learning-Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Cisco-Course/.idea/Python-Cisco-Course.iml" filepath="$PROJECT_DIR$/../Python-Cisco-Course/.idea/Python-Cisco-Course.iml" />
     </modules>
   </component>
 </project>
