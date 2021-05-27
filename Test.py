@@ -1,9 +1,10 @@
-#bob = input("What is your name?")
-#print(bob)
-x=0
-while x != 20:
-    x += 1
-    print(x," ",end='')
+from simple_colors import *
+import os
+os.system('cls')
 
 
 
+print(green('hello'))
+print(green('hello', 'bold'))
+print(green('hello', ['bold', 'underlined']))
+print(red('This is RED in colour',['bold','underlined']))
